@@ -1,0 +1,1 @@
+Go to [Danya's repo/BI-stat-course](https://github.com/danon6868/BI-stat-course) and download [raw data](https://github.com/danon6868/BI-stat-course/tree/main/lecture_5_hypothesis_testing/homework/data) for the 5th homework
