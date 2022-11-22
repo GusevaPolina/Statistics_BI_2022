@@ -78,7 +78,7 @@ path_two = input('Please, indicate the path to ur second dataset, including the 
 output_name = input('Please, indicate the desirable name for the output without .csv: ')
 
 print('''\nBE AWARE: there is an additional first column with gene names,
-because the scrip is using a union of sets, so the order is messed up...''')
+because the script is using a union of sets, so the order is messed up...''')
 
 print('''\nWhat test would you like? Please, select one from the brackets below:
 z-test (ztest), t-test for independent variables (ttest_ind), t-test for dependent 
