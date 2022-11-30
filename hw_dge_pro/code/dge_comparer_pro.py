@@ -104,7 +104,7 @@ else:
     correct = None
 
 if alpha:
-    pass
+    alpha=float(alpha)
 else:
     alpha = 0.05
 
